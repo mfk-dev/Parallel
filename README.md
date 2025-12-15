@@ -1,34 +1,41 @@
-# "PARALLEL"
-# Parallel Universe Simulation Game
+# PARALLEL - Parallel Universe Simulation Game
 
-> This is a text-based quantum adventure game written in Python.
-> It is played by selecting options and entering commands, similar to using a terminal.
-> I have started to code this on 14.12.2025.
-> Im a rookie python coder, forgive my mistakes.
-> The project isnt finished yet, i will finish it as soon as i can.
+> A text-based quantum adventure game written in Python.
+> Started development: 14.12.2024
+> Status: In Development ( Not Finished Yet )
+> Developer: mfk-dev ( A rookie python coder. )
 
 ## Features
-- 30 parallel universe exploration opportunities.
+- Explore 30 different parallel universes.
 - ASCII art graphics.
 - Colorful terminal interface.
 - Interactive storytelling.
-- Puzzles/questions to solve for exploration.
+- Terminal-based command system.
+
+## 🎯 Gameplay
+You are Dr. Leon Fairfall, a quantum researcher who discovers a mysterious interface called "Parallel-OBS". Unlock all 30 parallel universes by solving puzzles, and maybe go to a parallel universe physically too.
+
+### Commands ( Not Finished Yet ) :
+- `list` - Show all the commands.
+- `messages` - Read your current messages.
+- `universes` - List the both locked and unlocked universes.
+- `observe [universe_command_name]` - Observe a universe.
+-  `missions` - Show your current missions.
 
 ## Installation
 
-### Requirements
+### Prerequisites
 - Python 3.8 or higher
 
-### Installation
-# 1. Clone the repository
-git clone https://github.com/kullaniciadin/parallel-universe-game.git
+### Clone and Run
+# Clone the repository
+git clone https://github.com/mfk-dev/parallel-universe-game.git
 
-# 2. Enter the directory
+# Navigate to project directory
 cd parallel-universe-game
 
-# 3. Start the game
+# Run the game
 python main.py
 
+> Im a rookie coder, so forgive my mistakes if i have some!
 > Have Fun!
-> Github: mfk-dev
-> Instagram: mf.kaya0
